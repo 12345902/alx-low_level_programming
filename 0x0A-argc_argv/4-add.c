@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
 	int y;
 	int add;
 
-	(void)argv; 
+	(void)argv;
 	add = 0;
 	if (argc > 1)
 	{
